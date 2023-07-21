@@ -30,7 +30,7 @@ android {
 
 dependencies {
     // JDBI
-    implementation 'org.jdbi:jdbi3-core:3.37.1'
+//    implementation 'org.jdbi:jdbi3-core:3.37.1'
     // Retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     //Log
