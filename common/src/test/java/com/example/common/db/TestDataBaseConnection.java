@@ -12,7 +12,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-public class DataBaseConnection {
+public class TestDataBaseConnection {
 
     /*
     Проверка подключения к PostgreSQL серверу и выполнение запроса к таблице

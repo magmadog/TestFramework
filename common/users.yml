@@ -1,0 +1,4 @@
+- login: testuser1
+  password: password1
+- login: testuser2
+  password: password2
